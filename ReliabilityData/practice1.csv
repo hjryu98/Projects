@@ -1,0 +1,16 @@
+sample,test1,censored1,test2,censored2,test3,censored3
+1,116,fail,2771,fail,24116,censored
+2,123,fail,3102,fail,25387,fail
+3,137,censored,3520,fail,27554,fail
+4,142,censored,3714,censored,28754,fail
+5,161,fail,3900,fail,30027,fail
+6,162,fail,3930,fail,32763,fail
+7,180,fail,4537,fail,34221,fail
+8,182,censored,5326,fail,37797,fail
+9,199,censored,6267,fail,41862,fail
+10,227,fail,6558,fail,44324,fail
+11,240,fail,6618,censored,47742,fail
+12,283,fail,7121,fail,49865,fail
+13,313,censored,7616,fail,54539,fail
+14,369,fail,9129,fail,65208,fail
+15,484,fail,9865,fail,79076,fail
