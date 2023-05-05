@@ -1,3 +1,3 @@
-# Data Analytics, Machine Learning & Deep Learning Projects<br>
+# Data Analytics & Machine Learning<br>
 
 ##### There is a description about projects in files, respectively
